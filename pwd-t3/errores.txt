@@ -1,0 +1,3 @@
+Secciones que no funcionaban.
+En la parte de contenidos, había información que no estaba vinculada a ninguna sección, lo que lleva a que cuando le das click a una sección no te muestre ninguna información.
+En  cada topico había una sección de alumnos, la sección de alumnos funcionaba en dos tópicos solamente y tenían cursos distintos. 
